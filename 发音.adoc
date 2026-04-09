@@ -1,4 +1,6 @@
 :toc:
+:author: peicheng.liu@outlook.com
+:lang: zh
 
 == 五十音
 
