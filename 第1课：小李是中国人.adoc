@@ -1,6 +1,5 @@
 :toc:
 :author: peicheng.liu@outlook.com
-:pdf-fontsdir: C:\Windows\Fonts
 
 == 词汇
 
