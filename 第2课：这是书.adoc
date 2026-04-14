@@ -51,7 +51,7 @@
 |news
 |ニュース
 |
-|nyuu su
+|nyu-su
 |新闻
 
 |雑誌
