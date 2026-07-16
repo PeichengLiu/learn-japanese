@@ -48,11 +48,11 @@
 |shin bun
 |报纸
 
-|news
 |ニュース
 |
+|
 |nyu-su
-|新闻
+|新闻(news)
 
 |雑誌
 |ざっし
@@ -184,13 +184,13 @@
 |しるく
 |1
 |shi ru ku
-|丝绸 (handkerchief)
+|丝绸
 
 |ハンカチ
 |はんかち
 |0
 |han ka chi
-|手绢
+|手绢(handkerchief)
 
 |会社
 |かいしゃ
