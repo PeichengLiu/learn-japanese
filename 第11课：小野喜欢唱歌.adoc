@@ -1,0 +1,65 @@
+:toc:
+:author: peicheng.liu@outlook.com
+
+== 词汇
+
+|===
+|单词 |假名 |声调 |罗马音 |词义
+|歌|うた|2|uta|歌曲
+|カラオケ||0|karaoke|卡拉OK
+|ロック||1|rokku|摇滚乐 rock
+|ポップス||1|poppusu|流行音乐 pops
+|クラシック||3|kurashikku|西方古典音乐 classic
+|ピアノ||0|piano|钢琴 piano
+|絵|え|1|e|画儿
+|英語|えいご|0|eigo|英语
+|スペイン語||0|supeingo|西班牙语
+|スポーツ||2|supo-tsu|体育 sports
+|水泳|すいえい|0|suiei|游泳
+|ゴルフ||1|gorufu|高尔夫 golf
+|運転|うんてん|0|unten|开车
+|飲み物|のみもの|2|nomimono|饮料
+|お酒|おさけ|0|osake|酒
+|肉|にく|2|niku|肉
+|野菜|やさい|0|yasai|蔬菜
+|果物|くだもの|2|kudamono|水果
+|ヒマワリ||2|himawari|向日葵
+|バラ||0|bara|玫瑰
+|コンピューター||3|kon-pyu-ta-|电脑 computer
+|窓|まど|1|mado|窗户
+|結婚式|けっこんしき|3|kekkonshiki|结婚典礼
+|写真展|しゃしんてん|2|shashinten|摄影展
+|旅館|りょかん|0|ryokan|旅馆
+|別荘|べっそう|3|bessou|别墅
+|寄木細工|よせぎざいく|4|yosagizaiku|木片儿拼花工艺品
+|模様|もよう|0|moyou|花纹
+|外国|がいこく|0|gaikoku|外国
+|会議|かいぎ|1|kaigi|会议
+|脚|あし　足|2|ashi|腿
+|僕|ぼく|1|boku|我
+|分かります|わかります||wakarimasu|明白
+|迷います|まよいます||mayoimasu|犹豫
+|できます|||dekimasu|会
+|閉めます|しめます||shimemasu|关闭
+|疲れます|つかれます||tsukaremasu|疲倦
+|散歩します|さんぽします||sanposhimasu|散步
+|怖い|こわい|2|kowai|害怕
+|赤い|あかい|0|akai|红
+|痛い|いたい|2|itai|疼痛
+|上手|じょうず|3|jouzu|擅长
+|下手|へた|2|heta|水平低
+|苦手|にがて|0|nigate|不擅长
+|時々|ときどき|0|tokidoki|有时
+|よく||1|yoku|经常
+|たまに||0|tamani|偶尔
+|また||0|mata|再
+|どうして||1|doushite|为什么
+|だから||1|dakara|所以
+|うーん|||u-n|嗯……
+|けっこうです||1|kekkoudesu|不用
+|きにいります||5|kiniirimasu|喜欢
+|まど|||mado|等等
+|===
+
+== 语法
+
