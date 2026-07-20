@@ -10,7 +10,7 @@
 |先月|せんげつ|1|sengetsu|上个月
 |夜中|よなか|3|yonaka|午夜，半夜
 |昨夜|ゆうべ|0|yuube|昨天晚上
-|コンサート|こんサーと|1|konsa-to|音乐节
+|コンサート|こんサーと|1|konsa-to|音乐节 concert
 |クリスマス|くりすます|3|kurisumasu|圣诞节
 |誕生日|たんじょうび|3|tanjoubi|生日
 |こどもの日|こどものひ|5|kodomonohi|儿童节
