@@ -1,0 +1,62 @@
+:toc:
+:author: peicheng.liu@outlook.com
+
+== 词汇
+
+|===
+|单词 |假名 |声调 |罗马音 |词义
+|季節|きせつ|1|kisetsu|季节
+|冬|ふゆ|2|fuyu|冬天
+|春|はる|1|haru|春天
+|夏|なつ|2|natsu|夏天
+|秋|あき|1|aki|秋天
+|日本料理|にほんりょうり|4|nihonryouri|日式饭菜
+|寿司|すし|2|sushi|寿司
+|ナシ||2|nashi|梨
+|バナナ||1|banana|香蕉 banana
+|ミカン||1|mikan|橘子
+|焼酎|しょうちゅう|3|shouchuu|烧酒
+|日本酒|にほんしゅ|0|nihonshu|日本酒
+|紅茶|こうちゃ|0|koucha|红茶
+|ウーロン茶||3|u-roncha|乌龙茶
+|ジャスミン茶||3|jasumincha|茉莉花茶 jasmine
+|緑茶|りょくちゃ|0|ryokucha|绿茶
+|ジュース||1||果汁 juice
+|人気||0|ninki|声望,受欢迎
+|席|せき|1|seki|座位,席位
+|クラス||1|kurasu|班级 class
+|種類|しゅるい|1|shurui|种类
+|背|せ（高い　たかい 低い　ひくい）|1|se|个子
+|兄|ani（姉　あね）|1||哥哥,兄长
+|最近|さいきん|0|saikin|最近,近来
+|降ります|ふります|3|furimasu|下/降(雨/雪)
+|若い|わかい|2|wakai|年轻
+|暖かい|あたたかい|4|atatakai|暖和,温暖
+|涼しい|すずしい|3|suzushii|凉爽
+|速い|はやい|2|hayai|快
+|大好き|大好き|1|daisuki|非常喜欢
+|いちばん||0|ichiban|最,第一
+|ずっと||0|zutto|~得多
+|やはり／やっぱり||2-3|yahari/yappari|仍然,还是
+|チョモランマ||3|chomoranma|珠穆朗玛峰
+|人気があります|にんきがあります||ninkigaarimasu|受欢迎
+|～年間|||~nenkan|
+|===
+
+== 语法
+
+
+
+== 课文
+
+[litearl]
+----
+
+----
+
+== 课后课文
+
+[litearl]
+----
+
+----
