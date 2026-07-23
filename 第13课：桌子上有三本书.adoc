@@ -1,0 +1,35 @@
+:toc:
+:author: peicheng.liu@outlook.com
+
+== 词汇
+
+|===
+|单词 |假名 |声调 |罗马音 |词义
+|荷物|にもつ|1|nimotsu|包裹
+|はがき|はがき|0|hagaki|明信片
+|切手|きって|0|kitte|邮票
+|引き出し|ひきだし|0|hikidashi|抽屉
+|アルバム|あるばむ|0|arubamu|相册 album
+|タバコ|たばこ|0|tabako|烟，烟草 tabacco
+|漫画|まんが|0|manga|漫画
+|ガレージ||2|gare-ji|车库，汽车房 garage
+|修理|しゅうり|1|shuuri|修理
+|生ビール|なまビール|3|namabi-ru|生啤
+|焼き鳥|やきとり|0|yakitori|烤鸡肉串
+|唐揚げ|からあげ|0|karaage|炸鸡，油炸食品
+|肉しゃが|にくしゃが|0|nikushaga|土豆炖肉
+|ボーリング||0|bo-ringu|保龄球
+|髪|かみ|2|kami|头发
+|象|ぞう|1|zou|象，大象
+|昼|ひる|2|hiru|白天，中午
+|おか|おか|0|oka|另外，其他
+|かかります||4|kakarimasu|【动1】花费（时间，金钱）
+|咲きます|さきます|3|sakimasu|【动1】花开
+|泳ぎます|およぎます|4|oyogimasu|【动1】游泳
+|遊びます|あそびます|4|asobimasu|【动1】玩，玩耍
+|吸います|すいます|3|suimasu|【动1】吸（烟）
+|切ります|きります|3|kirimasu|【动1】剪，切，割
+|大体|だいたい|0|daitai|大约，大概，大体
+|とりあえず|とりあえず|3|toriaezu|暂且
+||どのぐらい／どれぐらい|0|donogurai/doregurai|多久，多少钱
+|===
