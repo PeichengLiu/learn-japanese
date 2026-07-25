@@ -45,7 +45,7 @@
 |不便|ふべん|1|fuben|不方便
 |元気|げんき|1|genki|健康
 |簡単|かんたん|0|kantan|简单
-|ハンサム||1|hunsamu|英俊 handsome
+|ハンサム||1|hansamu|英俊 handsome
 |どんな||1|donna|什么样的
 |どう||1|dou|怎样
 |いかが||2|ikaga|如何
