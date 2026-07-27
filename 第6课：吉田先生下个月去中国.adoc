@@ -11,21 +11,21 @@
 |夜中|よなか|3|yonaka|午夜，半夜
 |昨夜|ゆうべ|0|yuube|昨天晚上
 |コンサート|こんサーと|1|konsa-to|音乐节 concert
-|クリスマス|くりすます|3|kurisumasu|圣诞节
+|クリスマス|くりすます|3|kurisumasu|圣诞节 Christmas
 |誕生日|たんじょうび|3|tanjoubi|生日
 |こどもの日|こどものひ|5|kodomonohi|儿童节
 |夏休み|なつやすみ|3|natsuyasumi|暑假
 |交通機関|こうつうきかん|5|koutsuukikan|交通工具
 |新幹線|しんかんせん|3|shinkansen|新干线
 |飛行機|ひこうき|2|hikouki|飞机
-|フぇリー|ふぇリー|1|fuxeri-|渡轮
+|フぇリー|ふぇリー|1|fuxeri-|渡轮 ferry
 |電車|でんしゃ|0|densha|电车
-|バス|ばす|1|basu|公共汽车
-|タクシー|たくしー|1|takushi-|出租车
+|バス|ばす|1|basu|公共汽车 bus
+|タクシー|たくしー|1|takushi-|出租车 taxi
 |美術館|びじゅつかん|3|bijutsukan|美术馆
-|アパート|あぱーと|2|apa-to|公寓
+|アパート|あぱーと|2|apa-to|公寓 appartment
 |うち|うち|0|uchi|家
-|プール|ぷーる|1|pu-ru|游泳池
+|プール|ぷーる|1|pu-ru|游泳池 pool
 |友達|ともだち|0|tomodachi|朋友
 |弟|おとうと|4|otouto|弟弟
 |行きます|いきます|3|ikimasu|去
