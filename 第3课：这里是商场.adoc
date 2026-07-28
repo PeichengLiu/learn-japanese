@@ -16,7 +16,7 @@
 |アパート|あぱーと||a pa- to|公寓（apartment）
 |ホテレ|ほてる|1|ho te ru|宾馆 （hotel）
 |喫茶店|きっさてん|0|ki ssa ten|咖啡馆
-|カフエ|かふえ||ka fu e|咖啡店（coffee）
+|カフエ|かふえ||ka fu e |咖啡店（coffee）
 |病院|びょういん|0|byou in|医院
 |本屋|ほんや|1|hon ya|书店
 |レストラン|れすとらん|1|re su to ran|餐馆，西餐馆（restaurant）
@@ -30,7 +30,7 @@
 |受付|うけつけ|0|u ke tsu ke|接待处
 |エスカレーター|えすかれーたー|4|e su ka re- ta-|自动扶梯（escalator）
 |エリベーター|えりべーたー||e ri be- ta-|电梯（elevator）
-|リフト|りふと||li fu to|电梯（lift）
+|リフト|りふと||ri fu to|电梯（lift）
 |服|ふく|2|fu ku|衣服
 |コート|こーと|1|ko- to|风衣，大衣（coat）
 |デジカメ|でじかめ|0|de ji ka me|数码相机（digital camera）
