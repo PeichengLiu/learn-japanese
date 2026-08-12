@@ -18,7 +18,7 @@
 |交通機関|こうつうきかん|5|koutsuukikan|交通工具
 |新幹線|しんかんせん|3|shinkansen|新干线
 |飛行機|ひこうき|2|hikouki|飞机
-|フぇリー|ふぇリー|1|fuxeri-|渡轮 ferry
+|フェリー|ふぇりー|1|feri-|渡轮 ferry
 |電車|でんしゃ|0|densha|电车
 |バス|ばす|1|basu|公共汽车 bus
 |タクシー|たくしー|1|takushi-|出租车 taxi
