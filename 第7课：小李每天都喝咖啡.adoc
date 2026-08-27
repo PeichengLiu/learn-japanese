@@ -13,7 +13,7 @@
 |パン|ぱん|1|pan|面包 pun
 |ケーキ|けーき|1|ke-ki|蛋糕 cake
 |お粥|おかゆ|0|okayu|粥
-|昼ごはん|ひるごはん|3|hirugohan|午饭
+|昼ご飯|ひるごはん|3|hirugohan|午饭
 |お弁当|おべんとう|0|obentou|盒饭
 |蕎麦|そば|1|soba|荞麦面
 |うどん||0|udon|面条
@@ -23,7 +23,7 @@
 |チーズ||1|chi-zu|干酪 cheese
 |リンゴ||0|ringo|苹果
 |イチゴ||0|ichigo|草莓
-|そば屋|そばや|2|sobaya|荞麦面馆
+|蕎麦屋|そばや|2|sobaya|荞麦面馆
 |テニス||1|tenisu|网球 tenis
 |ジョギング||0|jogingu|慢跑 jogging
 |サッカー||1|sakka-|足球 soccer
