@@ -5,6 +5,7 @@
 
 |===
 |单词 |假名 |声调 |罗马音 |词义
+
 |デパート|でぱーと|2|de pa- to|百货商店
 |スーパー|すーぱー||su-pa-|超市（supermarket）
 |コンビニ|こんびに|0|kon bi ni|便利店 （convenience store）
